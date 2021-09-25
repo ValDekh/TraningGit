@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Numerics;
 
 
@@ -18,7 +18,6 @@ namespace Biggly
             Console.WriteLine("Bigly is: {0}", biggly);
             Console.WriteLine("Is even: {0}", biggly.IsEven);
             Console.WriteLine("Power of two : {0}", biggly.IsPowerOfTwo);
-            BigInteger veryBig = BigInteger.Multiply(biggly, BigInteger.Parse("8888888888888888888"));
                  Console.WriteLine(" the end is: {0}", veryBig);
         }
     }
