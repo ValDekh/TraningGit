@@ -1,6 +1,7 @@
+User 1
 Good Bye!!!My Friends!
 I will miss you!
 Hallo!!! How are you!!
 
-Time 18:12
-Line from user 2
+Time 18:22
+Line from user 1
